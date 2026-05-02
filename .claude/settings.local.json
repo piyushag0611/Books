@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(scoop install *)",
+      "Bash(pdftoppm -r 150 \"c:/projects/books/DDIAv2/Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable.pdf\" /tmp/ddia_page -f 1 -l 5)",
+      "PowerShell(pdftoppm -r 150 \"c:\\\\projects\\\\books\\\\DDIAv2\\\\Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable.pdf\" \"C:\\\\temp\\\\ddia_page\" -f 1 -l 5)",
+      "PowerShell(if \\($?\\) { \"done\" } else { \"failed\" })",
+      "PowerShell(pdftoppm -v)",
+      "PowerShell($env:PATH)",
+      "PowerShell(pdftoppm -r 150 \"c:\\\\projects\\\\books\\\\DDIAv2\\\\Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable.pdf\" \"C:\\\\temp\\\\ddia\\\\page\" -f 31 -l 60 -png)",
+      "PowerShell(\"done\")"
+    ]
+  }
+}
