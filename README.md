@@ -19,7 +19,8 @@ books/
 |--------|---------|--------|------------|------|--------|--------|
 |DDIAv2 | Designing Data-Intensive Applications, 2nd Edition | Martin Kleppmann, Chris Riccomini | `systems` | `intermediate` | Apr 18th, 2026 | `in progress`|
 |RFNO| The Rise And Fall of the Neoliberal Order| Gary Gerstle | `history` | `joy-read`| Apr 20th-27th, 2026 | `completed`|
-|AA| Armageddon Averted | Stephen Kotkin | `history` | `joy-read` | Apr 28th-May 2nd, 2026| `in progress`|
+|AA| Armageddon Averted | Stephen Kotkin | `history` | `joy-read` | Apr 28th-May 2nd, 2026| `completed`|
+|MLR| Mao's Last Revolution | Roderick MacFarquhar and Michael Schoenhals | `history` | `joy-read` | May 2nd-May 9th, 2026| `in progress`|
 
 
 **Domains:** `ml-ai` · `systems` · `math` · `networking` · `security` · `history`, `politics`, `economics`  
